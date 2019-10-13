@@ -6,7 +6,7 @@ body, html {
 	color: #bfbfbf;
 	font-size: 18px;
 }
-input:focus {
+input:focus {//do
 	outline: none;
 	border-bottom-width: 1.5px;
 	border-bottom-color: white;
